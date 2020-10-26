@@ -62,4 +62,9 @@ https://www.laracasts.com
 
 <sup>A video-based paid-membership site (you can find plenty of free videos though) featuring dozens of PHP-related courses. Topics include PHP frameworks (Laravel, Symfony); testing (Cyrpress, PHPUnit); tooling (PHPStorm, Laravel Forge); and more. Most are intermediate to advanced level.</sup>
 
+- **Net Ninja's Laravel YouTube Series**
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q
+
+<sup>A free 30-video Laravel series created by an established YouTuber & course creator. Last updated on Mar 6, 2020.</sup>
+
 # Advanced
